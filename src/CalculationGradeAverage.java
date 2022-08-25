@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CalculationGradeAverage {
     public static void main(String[] args) {
-        // definition of variable
+        // definition of variables
         int math, physics, chemistry, turkish, history, music;
 
         // deriving an object named "input" from Scanner class
